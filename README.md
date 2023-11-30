@@ -48,7 +48,7 @@ DATA
   
 ```
 ### Segmentation and Patching
-We use preProcessing code (https://github.com/KatherLab/preProcessing) to segment and patch whole slide images. Simply run:
+We use [preProcessing code](https://github.com/KatherLab/preProcessing) to segment and patch whole slide images. Simply run:
 ```
 python extractTiles-ws.py -s ./DATA/WSI -o ./DATA/Tiles
 ```
