@@ -1,0 +1,17 @@
+{
+    "dataDir_train":["./DATA/Tiles"],
+    "targetLabels":["normal","tumor"],
+    "maxNumBlocks":500,
+    "minNumBlocks" : 0,
+
+    "epochs":200,
+    "batchSize":14,
+
+    "repeatExperiment" : 1,
+     
+    "seed":1,
+    "k":5,
+
+    "earlyStop":"True",
+}
+ 
