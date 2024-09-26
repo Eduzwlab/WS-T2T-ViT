@@ -3,7 +3,7 @@
 
 <details>
 <summary>
-    <b>Weakly Supervised Classification for Nasopharyngeal Carcinoma with Transformer in Whole Slide Images</b>. <a href="https://ieeexplore.ieee.org/abstract/document/10584271"></a>
+    <b>Weakly Supervised Classification for Nasopharyngeal Carcinoma with Transformer in Whole Slide Images</b>. <a href="https://ieeexplore.ieee.org/abstract/document/10584271">[Journal Link]</a>
 </summary>
 
 ```tex
