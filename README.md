@@ -1,6 +1,6 @@
 # WS-T2T-ViT
 ## Weakly Supervised Classification for Nasopharyngeal Carcinoma with Transformer in Whole Slide Images
-The study presents an approach to predict Nasopharyngeal Carcinoma from H&E histology slides using Vision Transformer.
+
 <details>
 <summary>
     <b>Weakly Supervised Classification for Nasopharyngeal Carcinoma with Transformer in Whole Slide Images</b>. <a href="https://ieeexplore.ieee.org/abstract/document/10584271"></a>
